@@ -1,0 +1,14 @@
+C:\Users\SriramBhavana\source\repos\C_Sharp_Assignments\Bank_App_Game\bin\Debug\net10.0\Bank_App_Game.exe
+C:\Users\SriramBhavana\source\repos\C_Sharp_Assignments\Bank_App_Game\bin\Debug\net10.0\Bank_App_Game.deps.json
+C:\Users\SriramBhavana\source\repos\C_Sharp_Assignments\Bank_App_Game\bin\Debug\net10.0\Bank_App_Game.runtimeconfig.json
+C:\Users\SriramBhavana\source\repos\C_Sharp_Assignments\Bank_App_Game\bin\Debug\net10.0\Bank_App_Game.dll
+C:\Users\SriramBhavana\source\repos\C_Sharp_Assignments\Bank_App_Game\bin\Debug\net10.0\Bank_App_Game.pdb
+C:\Users\SriramBhavana\source\repos\C_Sharp_Assignments\Bank_App_Game\obj\Debug\net10.0\Bank_App_Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SriramBhavana\source\repos\C_Sharp_Assignments\Bank_App_Game\obj\Debug\net10.0\Bank_App_Game.AssemblyInfoInputs.cache
+C:\Users\SriramBhavana\source\repos\C_Sharp_Assignments\Bank_App_Game\obj\Debug\net10.0\Bank_App_Game.AssemblyInfo.cs
+C:\Users\SriramBhavana\source\repos\C_Sharp_Assignments\Bank_App_Game\obj\Debug\net10.0\Bank_App_Game.csproj.CoreCompileInputs.cache
+C:\Users\SriramBhavana\source\repos\C_Sharp_Assignments\Bank_App_Game\obj\Debug\net10.0\Bank_App_Game.dll
+C:\Users\SriramBhavana\source\repos\C_Sharp_Assignments\Bank_App_Game\obj\Debug\net10.0\refint\Bank_App_Game.dll
+C:\Users\SriramBhavana\source\repos\C_Sharp_Assignments\Bank_App_Game\obj\Debug\net10.0\Bank_App_Game.pdb
+C:\Users\SriramBhavana\source\repos\C_Sharp_Assignments\Bank_App_Game\obj\Debug\net10.0\Bank_App_Game.genruntimeconfig.cache
+C:\Users\SriramBhavana\source\repos\C_Sharp_Assignments\Bank_App_Game\obj\Debug\net10.0\ref\Bank_App_Game.dll

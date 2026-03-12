@@ -1,0 +1,14 @@
+C:\Users\SriramBhavana\source\repos\C_Sharp_Assignments\Product_App\bin\Debug\net10.0\Product_App.exe
+C:\Users\SriramBhavana\source\repos\C_Sharp_Assignments\Product_App\bin\Debug\net10.0\Product_App.deps.json
+C:\Users\SriramBhavana\source\repos\C_Sharp_Assignments\Product_App\bin\Debug\net10.0\Product_App.runtimeconfig.json
+C:\Users\SriramBhavana\source\repos\C_Sharp_Assignments\Product_App\bin\Debug\net10.0\Product_App.dll
+C:\Users\SriramBhavana\source\repos\C_Sharp_Assignments\Product_App\bin\Debug\net10.0\Product_App.pdb
+C:\Users\SriramBhavana\source\repos\C_Sharp_Assignments\Product_App\obj\Debug\net10.0\Product_App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SriramBhavana\source\repos\C_Sharp_Assignments\Product_App\obj\Debug\net10.0\Product_App.AssemblyInfoInputs.cache
+C:\Users\SriramBhavana\source\repos\C_Sharp_Assignments\Product_App\obj\Debug\net10.0\Product_App.AssemblyInfo.cs
+C:\Users\SriramBhavana\source\repos\C_Sharp_Assignments\Product_App\obj\Debug\net10.0\Product_App.csproj.CoreCompileInputs.cache
+C:\Users\SriramBhavana\source\repos\C_Sharp_Assignments\Product_App\obj\Debug\net10.0\Product_App.dll
+C:\Users\SriramBhavana\source\repos\C_Sharp_Assignments\Product_App\obj\Debug\net10.0\refint\Product_App.dll
+C:\Users\SriramBhavana\source\repos\C_Sharp_Assignments\Product_App\obj\Debug\net10.0\Product_App.pdb
+C:\Users\SriramBhavana\source\repos\C_Sharp_Assignments\Product_App\obj\Debug\net10.0\Product_App.genruntimeconfig.cache
+C:\Users\SriramBhavana\source\repos\C_Sharp_Assignments\Product_App\obj\Debug\net10.0\ref\Product_App.dll

@@ -1,0 +1,14 @@
+C:\Users\SriramBhavana\source\repos\C_Sharp_Assignments\PalindromeString\bin\Debug\net10.0\PalindromeString.exe
+C:\Users\SriramBhavana\source\repos\C_Sharp_Assignments\PalindromeString\bin\Debug\net10.0\PalindromeString.deps.json
+C:\Users\SriramBhavana\source\repos\C_Sharp_Assignments\PalindromeString\bin\Debug\net10.0\PalindromeString.runtimeconfig.json
+C:\Users\SriramBhavana\source\repos\C_Sharp_Assignments\PalindromeString\bin\Debug\net10.0\PalindromeString.dll
+C:\Users\SriramBhavana\source\repos\C_Sharp_Assignments\PalindromeString\bin\Debug\net10.0\PalindromeString.pdb
+C:\Users\SriramBhavana\source\repos\C_Sharp_Assignments\PalindromeString\obj\Debug\net10.0\PalindromeString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SriramBhavana\source\repos\C_Sharp_Assignments\PalindromeString\obj\Debug\net10.0\PalindromeString.AssemblyInfoInputs.cache
+C:\Users\SriramBhavana\source\repos\C_Sharp_Assignments\PalindromeString\obj\Debug\net10.0\PalindromeString.AssemblyInfo.cs
+C:\Users\SriramBhavana\source\repos\C_Sharp_Assignments\PalindromeString\obj\Debug\net10.0\PalindromeString.csproj.CoreCompileInputs.cache
+C:\Users\SriramBhavana\source\repos\C_Sharp_Assignments\PalindromeString\obj\Debug\net10.0\PalindromeString.dll
+C:\Users\SriramBhavana\source\repos\C_Sharp_Assignments\PalindromeString\obj\Debug\net10.0\refint\PalindromeString.dll
+C:\Users\SriramBhavana\source\repos\C_Sharp_Assignments\PalindromeString\obj\Debug\net10.0\PalindromeString.pdb
+C:\Users\SriramBhavana\source\repos\C_Sharp_Assignments\PalindromeString\obj\Debug\net10.0\PalindromeString.genruntimeconfig.cache
+C:\Users\SriramBhavana\source\repos\C_Sharp_Assignments\PalindromeString\obj\Debug\net10.0\ref\PalindromeString.dll

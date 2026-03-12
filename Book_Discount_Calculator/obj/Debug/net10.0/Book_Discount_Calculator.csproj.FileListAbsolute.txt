@@ -1,0 +1,14 @@
+C:\Users\SriramBhavana\source\repos\C_Sharp_Assignments\Book_Discount_Calculator\bin\Debug\net10.0\Book_Discount_Calculator.exe
+C:\Users\SriramBhavana\source\repos\C_Sharp_Assignments\Book_Discount_Calculator\bin\Debug\net10.0\Book_Discount_Calculator.deps.json
+C:\Users\SriramBhavana\source\repos\C_Sharp_Assignments\Book_Discount_Calculator\bin\Debug\net10.0\Book_Discount_Calculator.runtimeconfig.json
+C:\Users\SriramBhavana\source\repos\C_Sharp_Assignments\Book_Discount_Calculator\bin\Debug\net10.0\Book_Discount_Calculator.dll
+C:\Users\SriramBhavana\source\repos\C_Sharp_Assignments\Book_Discount_Calculator\bin\Debug\net10.0\Book_Discount_Calculator.pdb
+C:\Users\SriramBhavana\source\repos\C_Sharp_Assignments\Book_Discount_Calculator\obj\Debug\net10.0\Book_Discount_Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SriramBhavana\source\repos\C_Sharp_Assignments\Book_Discount_Calculator\obj\Debug\net10.0\Book_Discount_Calculator.AssemblyInfoInputs.cache
+C:\Users\SriramBhavana\source\repos\C_Sharp_Assignments\Book_Discount_Calculator\obj\Debug\net10.0\Book_Discount_Calculator.AssemblyInfo.cs
+C:\Users\SriramBhavana\source\repos\C_Sharp_Assignments\Book_Discount_Calculator\obj\Debug\net10.0\Book_Discount_Calculator.csproj.CoreCompileInputs.cache
+C:\Users\SriramBhavana\source\repos\C_Sharp_Assignments\Book_Discount_Calculator\obj\Debug\net10.0\Book_Discount_Calculator.dll
+C:\Users\SriramBhavana\source\repos\C_Sharp_Assignments\Book_Discount_Calculator\obj\Debug\net10.0\refint\Book_Discount_Calculator.dll
+C:\Users\SriramBhavana\source\repos\C_Sharp_Assignments\Book_Discount_Calculator\obj\Debug\net10.0\Book_Discount_Calculator.pdb
+C:\Users\SriramBhavana\source\repos\C_Sharp_Assignments\Book_Discount_Calculator\obj\Debug\net10.0\Book_Discount_Calculator.genruntimeconfig.cache
+C:\Users\SriramBhavana\source\repos\C_Sharp_Assignments\Book_Discount_Calculator\obj\Debug\net10.0\ref\Book_Discount_Calculator.dll

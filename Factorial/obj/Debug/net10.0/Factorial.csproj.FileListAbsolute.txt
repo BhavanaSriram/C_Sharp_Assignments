@@ -1,0 +1,14 @@
+C:\Users\SriramBhavana\source\repos\C_Sharp_Assignments\Factorial\bin\Debug\net10.0\Factorial.exe
+C:\Users\SriramBhavana\source\repos\C_Sharp_Assignments\Factorial\bin\Debug\net10.0\Factorial.deps.json
+C:\Users\SriramBhavana\source\repos\C_Sharp_Assignments\Factorial\bin\Debug\net10.0\Factorial.runtimeconfig.json
+C:\Users\SriramBhavana\source\repos\C_Sharp_Assignments\Factorial\bin\Debug\net10.0\Factorial.dll
+C:\Users\SriramBhavana\source\repos\C_Sharp_Assignments\Factorial\bin\Debug\net10.0\Factorial.pdb
+C:\Users\SriramBhavana\source\repos\C_Sharp_Assignments\Factorial\obj\Debug\net10.0\Factorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SriramBhavana\source\repos\C_Sharp_Assignments\Factorial\obj\Debug\net10.0\Factorial.AssemblyInfoInputs.cache
+C:\Users\SriramBhavana\source\repos\C_Sharp_Assignments\Factorial\obj\Debug\net10.0\Factorial.AssemblyInfo.cs
+C:\Users\SriramBhavana\source\repos\C_Sharp_Assignments\Factorial\obj\Debug\net10.0\Factorial.csproj.CoreCompileInputs.cache
+C:\Users\SriramBhavana\source\repos\C_Sharp_Assignments\Factorial\obj\Debug\net10.0\Factorial.dll
+C:\Users\SriramBhavana\source\repos\C_Sharp_Assignments\Factorial\obj\Debug\net10.0\refint\Factorial.dll
+C:\Users\SriramBhavana\source\repos\C_Sharp_Assignments\Factorial\obj\Debug\net10.0\Factorial.pdb
+C:\Users\SriramBhavana\source\repos\C_Sharp_Assignments\Factorial\obj\Debug\net10.0\Factorial.genruntimeconfig.cache
+C:\Users\SriramBhavana\source\repos\C_Sharp_Assignments\Factorial\obj\Debug\net10.0\ref\Factorial.dll

@@ -1,0 +1,14 @@
+C:\Users\SriramBhavana\source\repos\C_Sharp_Assignments\Number_Guess\bin\Debug\net10.0\Number_Guess.exe
+C:\Users\SriramBhavana\source\repos\C_Sharp_Assignments\Number_Guess\bin\Debug\net10.0\Number_Guess.deps.json
+C:\Users\SriramBhavana\source\repos\C_Sharp_Assignments\Number_Guess\bin\Debug\net10.0\Number_Guess.runtimeconfig.json
+C:\Users\SriramBhavana\source\repos\C_Sharp_Assignments\Number_Guess\bin\Debug\net10.0\Number_Guess.dll
+C:\Users\SriramBhavana\source\repos\C_Sharp_Assignments\Number_Guess\bin\Debug\net10.0\Number_Guess.pdb
+C:\Users\SriramBhavana\source\repos\C_Sharp_Assignments\Number_Guess\obj\Debug\net10.0\Number_Guess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SriramBhavana\source\repos\C_Sharp_Assignments\Number_Guess\obj\Debug\net10.0\Number_Guess.AssemblyInfoInputs.cache
+C:\Users\SriramBhavana\source\repos\C_Sharp_Assignments\Number_Guess\obj\Debug\net10.0\Number_Guess.AssemblyInfo.cs
+C:\Users\SriramBhavana\source\repos\C_Sharp_Assignments\Number_Guess\obj\Debug\net10.0\Number_Guess.csproj.CoreCompileInputs.cache
+C:\Users\SriramBhavana\source\repos\C_Sharp_Assignments\Number_Guess\obj\Debug\net10.0\Number_Guess.dll
+C:\Users\SriramBhavana\source\repos\C_Sharp_Assignments\Number_Guess\obj\Debug\net10.0\refint\Number_Guess.dll
+C:\Users\SriramBhavana\source\repos\C_Sharp_Assignments\Number_Guess\obj\Debug\net10.0\Number_Guess.pdb
+C:\Users\SriramBhavana\source\repos\C_Sharp_Assignments\Number_Guess\obj\Debug\net10.0\Number_Guess.genruntimeconfig.cache
+C:\Users\SriramBhavana\source\repos\C_Sharp_Assignments\Number_Guess\obj\Debug\net10.0\ref\Number_Guess.dll

@@ -1,0 +1,14 @@
+C:\Users\SriramBhavana\source\repos\C_Sharp_Assignments\Function_Arrays\obj\Debug\net10.0\Function_Arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SriramBhavana\source\repos\C_Sharp_Assignments\Function_Arrays\obj\Debug\net10.0\Function_Arrays.AssemblyInfoInputs.cache
+C:\Users\SriramBhavana\source\repos\C_Sharp_Assignments\Function_Arrays\obj\Debug\net10.0\Function_Arrays.AssemblyInfo.cs
+C:\Users\SriramBhavana\source\repos\C_Sharp_Assignments\Function_Arrays\obj\Debug\net10.0\Function_Arrays.csproj.CoreCompileInputs.cache
+C:\Users\SriramBhavana\source\repos\C_Sharp_Assignments\Function_Arrays\bin\Debug\net10.0\Function_Arrays.exe
+C:\Users\SriramBhavana\source\repos\C_Sharp_Assignments\Function_Arrays\bin\Debug\net10.0\Function_Arrays.deps.json
+C:\Users\SriramBhavana\source\repos\C_Sharp_Assignments\Function_Arrays\bin\Debug\net10.0\Function_Arrays.runtimeconfig.json
+C:\Users\SriramBhavana\source\repos\C_Sharp_Assignments\Function_Arrays\bin\Debug\net10.0\Function_Arrays.dll
+C:\Users\SriramBhavana\source\repos\C_Sharp_Assignments\Function_Arrays\bin\Debug\net10.0\Function_Arrays.pdb
+C:\Users\SriramBhavana\source\repos\C_Sharp_Assignments\Function_Arrays\obj\Debug\net10.0\Function_Arrays.dll
+C:\Users\SriramBhavana\source\repos\C_Sharp_Assignments\Function_Arrays\obj\Debug\net10.0\refint\Function_Arrays.dll
+C:\Users\SriramBhavana\source\repos\C_Sharp_Assignments\Function_Arrays\obj\Debug\net10.0\Function_Arrays.pdb
+C:\Users\SriramBhavana\source\repos\C_Sharp_Assignments\Function_Arrays\obj\Debug\net10.0\Function_Arrays.genruntimeconfig.cache
+C:\Users\SriramBhavana\source\repos\C_Sharp_Assignments\Function_Arrays\obj\Debug\net10.0\ref\Function_Arrays.dll

@@ -1,0 +1,14 @@
+C:\Users\SriramBhavana\source\repos\C_Sharp_Assignments\C_Sharp_Assignments\bin\Debug\net10.0\Reverse_of_number.exe
+C:\Users\SriramBhavana\source\repos\C_Sharp_Assignments\C_Sharp_Assignments\bin\Debug\net10.0\Reverse_of_number.deps.json
+C:\Users\SriramBhavana\source\repos\C_Sharp_Assignments\C_Sharp_Assignments\bin\Debug\net10.0\Reverse_of_number.runtimeconfig.json
+C:\Users\SriramBhavana\source\repos\C_Sharp_Assignments\C_Sharp_Assignments\bin\Debug\net10.0\Reverse_of_number.dll
+C:\Users\SriramBhavana\source\repos\C_Sharp_Assignments\C_Sharp_Assignments\bin\Debug\net10.0\Reverse_of_number.pdb
+C:\Users\SriramBhavana\source\repos\C_Sharp_Assignments\C_Sharp_Assignments\obj\Debug\net10.0\Reverse_of_number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SriramBhavana\source\repos\C_Sharp_Assignments\C_Sharp_Assignments\obj\Debug\net10.0\Reverse_of_number.AssemblyInfoInputs.cache
+C:\Users\SriramBhavana\source\repos\C_Sharp_Assignments\C_Sharp_Assignments\obj\Debug\net10.0\Reverse_of_number.AssemblyInfo.cs
+C:\Users\SriramBhavana\source\repos\C_Sharp_Assignments\C_Sharp_Assignments\obj\Debug\net10.0\Reverse_of_number.csproj.CoreCompileInputs.cache
+C:\Users\SriramBhavana\source\repos\C_Sharp_Assignments\C_Sharp_Assignments\obj\Debug\net10.0\Reverse_of_number.dll
+C:\Users\SriramBhavana\source\repos\C_Sharp_Assignments\C_Sharp_Assignments\obj\Debug\net10.0\refint\Reverse_of_number.dll
+C:\Users\SriramBhavana\source\repos\C_Sharp_Assignments\C_Sharp_Assignments\obj\Debug\net10.0\Reverse_of_number.pdb
+C:\Users\SriramBhavana\source\repos\C_Sharp_Assignments\C_Sharp_Assignments\obj\Debug\net10.0\Reverse_of_number.genruntimeconfig.cache
+C:\Users\SriramBhavana\source\repos\C_Sharp_Assignments\C_Sharp_Assignments\obj\Debug\net10.0\ref\Reverse_of_number.dll

@@ -1,0 +1,4 @@
+C:\Users\SriramBhavana\source\repos\C_Sharp_Assignments\In_Out\obj\Debug\net10.0\In_Out.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SriramBhavana\source\repos\C_Sharp_Assignments\In_Out\obj\Debug\net10.0\In_Out.AssemblyInfoInputs.cache
+C:\Users\SriramBhavana\source\repos\C_Sharp_Assignments\In_Out\obj\Debug\net10.0\In_Out.AssemblyInfo.cs
+C:\Users\SriramBhavana\source\repos\C_Sharp_Assignments\In_Out\obj\Debug\net10.0\In_Out.csproj.CoreCompileInputs.cache

@@ -1,0 +1,22 @@
+<Solution>
+  <Project Path="Armstrong/Armstrong.csproj" />
+  <Project Path="Bank_App_Game/Bank_App_Game.csproj" />
+  <Project Path="Basic_Stats_Program/Basic_Stats_Program.csproj" />
+  <Project Path="Book_Discount_Calculator/Book_Discount_Calculator.csproj" />
+  <Project Path="Boxing_Unboxing/Boxing_Unboxing.csproj" />
+  <Project Path="ClassDiagram/ClassDiagram.csproj" />
+  <Project Path="Constructor_Chaining/Constructor_Chaining.csproj" />
+  <Project Path="Constructor_Overloading/Constructor_Overloading.csproj" />
+  <Project Path="C_Sharp_Assignments/Reverse_of_number.csproj" />
+  <Project Path="Factorial/Factorial.csproj" />
+  <Project Path="FibbonaciProgram/FibbonaciProgram.csproj" />
+  <Project Path="Function_Arrays/Function_Arrays.csproj" />
+  <Project Path="In_Out/In_Out_Params.csproj" />
+  <Project Path="Number_Guess/Number_Guess.csproj" />
+  <Project Path="PalindromeString/PalindromeString.csproj" />
+  <Project Path="Planet_Weight/Planet_Weight.csproj" />
+  <Project Path="Prime Program/Prime Program.csproj" />
+  <Project Path="Product_App/Product_App.csproj" />
+  <Project Path="Student_Rport/Student_Report.csproj" />
+  <Project Path="University_Enrollment/University_Enrollment.csproj" />
+</Solution>
