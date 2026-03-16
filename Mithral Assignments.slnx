@@ -1,5 +1,6 @@
 <Solution>
   <Project Path="Armstrong/Armstrong.csproj" />
+  <Project Path="ArrayOfAccounts/ArrayOfAccounts.csproj" Id="5ec76195-d772-4626-bf50-76c4b88781a5" />
   <Project Path="Bank_App_Game/Bank_App_Game.csproj" />
   <Project Path="Basic_Stats_Program/Basic_Stats_Program.csproj" />
   <Project Path="Book_Discount_Calculator/Book_Discount_Calculator.csproj" />
