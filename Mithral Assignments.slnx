@@ -15,6 +15,7 @@
   <Project Path="In_Out/In_Out_Params.csproj" />
   <Project Path="Number_Guess/Number_Guess.csproj" />
   <Project Path="PalindromeString/PalindromeString.csproj" />
+  <Project Path="PigGame/PigGame.csproj" Id="3598f1bb-444f-4aa5-8d69-cbfbf664b342" />
   <Project Path="Planet_Weight/Planet_Weight.csproj" />
   <Project Path="Prime Program/Prime Program.csproj" />
   <Project Path="Product_App/Product_App.csproj" />
