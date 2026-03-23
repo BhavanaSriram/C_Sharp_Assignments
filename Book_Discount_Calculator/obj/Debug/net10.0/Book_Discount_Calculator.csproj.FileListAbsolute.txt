@@ -12,3 +12,4 @@ C:\Users\SriramBhavana\source\repos\C_Sharp_Assignments\Book_Discount_Calculator
 C:\Users\SriramBhavana\source\repos\C_Sharp_Assignments\Book_Discount_Calculator\obj\Debug\net10.0\Book_Discount_Calculator.pdb
 C:\Users\SriramBhavana\source\repos\C_Sharp_Assignments\Book_Discount_Calculator\obj\Debug\net10.0\Book_Discount_Calculator.genruntimeconfig.cache
 C:\Users\SriramBhavana\source\repos\C_Sharp_Assignments\Book_Discount_Calculator\obj\Debug\net10.0\ref\Book_Discount_Calculator.dll
+C:\Users\SriramBhavana\source\repos\C_Sharp_Assignments\Book_Discount_Calculator\obj\Debug\net10.0\Book_Discount_Calculator.sourcelink.json

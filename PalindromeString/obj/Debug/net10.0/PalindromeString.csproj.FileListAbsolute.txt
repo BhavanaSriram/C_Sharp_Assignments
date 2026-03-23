@@ -12,3 +12,4 @@ C:\Users\SriramBhavana\source\repos\C_Sharp_Assignments\PalindromeString\obj\Deb
 C:\Users\SriramBhavana\source\repos\C_Sharp_Assignments\PalindromeString\obj\Debug\net10.0\PalindromeString.pdb
 C:\Users\SriramBhavana\source\repos\C_Sharp_Assignments\PalindromeString\obj\Debug\net10.0\PalindromeString.genruntimeconfig.cache
 C:\Users\SriramBhavana\source\repos\C_Sharp_Assignments\PalindromeString\obj\Debug\net10.0\ref\PalindromeString.dll
+C:\Users\SriramBhavana\source\repos\C_Sharp_Assignments\PalindromeString\obj\Debug\net10.0\PalindromeString.sourcelink.json

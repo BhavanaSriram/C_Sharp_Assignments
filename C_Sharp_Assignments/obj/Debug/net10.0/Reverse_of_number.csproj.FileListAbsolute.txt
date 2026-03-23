@@ -12,3 +12,4 @@ C:\Users\SriramBhavana\source\repos\C_Sharp_Assignments\C_Sharp_Assignments\obj\
 C:\Users\SriramBhavana\source\repos\C_Sharp_Assignments\C_Sharp_Assignments\obj\Debug\net10.0\Reverse_of_number.pdb
 C:\Users\SriramBhavana\source\repos\C_Sharp_Assignments\C_Sharp_Assignments\obj\Debug\net10.0\Reverse_of_number.genruntimeconfig.cache
 C:\Users\SriramBhavana\source\repos\C_Sharp_Assignments\C_Sharp_Assignments\obj\Debug\net10.0\ref\Reverse_of_number.dll
+C:\Users\SriramBhavana\source\repos\C_Sharp_Assignments\C_Sharp_Assignments\obj\Debug\net10.0\Reverse_of_number.sourcelink.json

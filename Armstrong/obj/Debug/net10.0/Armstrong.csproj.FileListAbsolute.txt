@@ -12,3 +12,4 @@ C:\Users\SriramBhavana\source\repos\C_Sharp_Assignments\Armstrong\obj\Debug\net1
 C:\Users\SriramBhavana\source\repos\C_Sharp_Assignments\Armstrong\obj\Debug\net10.0\Armstrong.pdb
 C:\Users\SriramBhavana\source\repos\C_Sharp_Assignments\Armstrong\obj\Debug\net10.0\Armstrong.genruntimeconfig.cache
 C:\Users\SriramBhavana\source\repos\C_Sharp_Assignments\Armstrong\obj\Debug\net10.0\ref\Armstrong.dll
+C:\Users\SriramBhavana\source\repos\C_Sharp_Assignments\Armstrong\obj\Debug\net10.0\Armstrong.sourcelink.json

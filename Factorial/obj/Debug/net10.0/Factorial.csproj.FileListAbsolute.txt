@@ -12,3 +12,4 @@ C:\Users\SriramBhavana\source\repos\C_Sharp_Assignments\Factorial\obj\Debug\net1
 C:\Users\SriramBhavana\source\repos\C_Sharp_Assignments\Factorial\obj\Debug\net10.0\Factorial.pdb
 C:\Users\SriramBhavana\source\repos\C_Sharp_Assignments\Factorial\obj\Debug\net10.0\Factorial.genruntimeconfig.cache
 C:\Users\SriramBhavana\source\repos\C_Sharp_Assignments\Factorial\obj\Debug\net10.0\ref\Factorial.dll
+C:\Users\SriramBhavana\source\repos\C_Sharp_Assignments\Factorial\obj\Debug\net10.0\Factorial.sourcelink.json
