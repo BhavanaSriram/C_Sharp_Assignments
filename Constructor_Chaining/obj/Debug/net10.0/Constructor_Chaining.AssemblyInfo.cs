@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Constructor_Chaining")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+05b03b38675e338844b13d95c85b10fb3add01c1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5fe03722c4ef8ac12f14e1736d912d51c73f553b")]
 [assembly: System.Reflection.AssemblyProductAttribute("Constructor_Chaining")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Constructor_Chaining")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -9,6 +9,8 @@
   <Project Path="Constructor_Chaining/Constructor_Chaining.csproj" />
   <Project Path="Constructor_Overloading/Constructor_Overloading.csproj" />
   <Project Path="C_Sharp_Assignments/Reverse_of_number.csproj" />
+  <Project Path="EmployeePolymorphism/EmployeePolymorphism.csproj" Id="3214dc34-0008-44d2-b007-edef66c69964" />
+  <Project Path="EmployeePolymorphism_CollectionPoc/CollectionPoc.csproj" Id="a8698d90-628e-46e5-81a6-fdac2f80567f" />
   <Project Path="Factorial/Factorial.csproj" />
   <Project Path="FibbonaciProgram/FibbonaciProgram.csproj" />
   <Project Path="Function_Arrays/Function_Arrays.csproj" />
