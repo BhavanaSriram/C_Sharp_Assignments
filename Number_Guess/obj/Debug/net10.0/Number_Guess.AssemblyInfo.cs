@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Number_Guess")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e91ffa02bda6e54bfc4eaa98ab059d8b7629d33a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+942dd286d593078ca90b43ec32c829959393ef83")]
 [assembly: System.Reflection.AssemblyProductAttribute("Number_Guess")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Number_Guess")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

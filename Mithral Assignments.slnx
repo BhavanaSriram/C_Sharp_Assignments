@@ -1,4 +1,5 @@
 <Solution>
+  <Project Path="AccountApp_Serialization&amp;Deserialization/AccountApp_Serialization&amp;Deserialization.csproj" Id="8560cbc0-0574-4626-bac4-a448b00560f4" />
   <Project Path="Armstrong/Armstrong.csproj" />
   <Project Path="ArrayOfAccounts/ArrayOfAccounts.csproj" Id="5ec76195-d772-4626-bf50-76c4b88781a5" />
   <Project Path="Bank_App_Game/Bank_App_Game.csproj" />
