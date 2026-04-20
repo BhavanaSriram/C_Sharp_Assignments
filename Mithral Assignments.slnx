@@ -27,5 +27,6 @@
   <Project Path="Product_App/Product_App.csproj" />
   <Project Path="StudentFilteringSystem(Predicate)/StudentFilteringSystem(Predicate).csproj" Id="636d4054-5cf4-4851-afc4-b48e3d231acb" />
   <Project Path="Student_Rport/Student_Report.csproj" />
+  <Project Path="TIC_TAC_TOE_GAME/TIC_TAC_TOE_GAME.csproj" Id="435b8c05-f614-4a02-88c1-76fbb6a10996" />
   <Project Path="University_Enrollment/University_Enrollment.csproj" />
 </Solution>
